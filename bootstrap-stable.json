@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "abaaeed838f7ad8bdba55d336c0a7164c19d463a",
+    "buildCommit": "b16720f021139fc085958e2402cbfc7b05291904",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -19,7 +19,7 @@
         "-XX:CompileThreshold=1500",
         "-Djna.nosys=true"
     ],
-    "minimumLauncherVersion": "2.2.0",
+    "minimumLauncherVersion": "2.2.1",
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Xmx1G",
@@ -59,7 +59,7 @@
             "path": "https://github.com/FrogPointer/Hosting/raw/master/stable/http-api-4.17.0.jar",
             "size": 124832,
             "name": "http-api-4.17.0.jar",
-            "hash": "4302b9bff895e3a9af6921949802604b9bc7994f5f6dd232068756788f4f1e5d"
+            "hash": "6839278969aad0a4e1c8e4b8de4446bb738c9607e9563adaa0ea8b04aec453a2"
         },
         {
             "path": "https://github.com/FrogPointer/Hosting/raw/master/stable/runelite-jshell-4.17.0.jar",
@@ -398,10 +398,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/Casesos/hosting/raw/master/stable/runelite-client-4.17.0.jar",
-            "size": 9608556,
+            "path": "https://github.com/FrogPointer/hosting/raw/master/stable/runelite-client-4.17.0.jar",
+            "size": 9608351,
             "name": "runelite-client-4.17.0.jar",
-            "hash": "83efc690f4f7ba5066fbfadeff50b6685655753bfe91849b3152f6ccb9bf3134"
+            "hash": "b257268455c4f0392aaa9995c71728bab7373a1e206a41cd52c8e0f5c593a1d6"
         }
     ]
 }
