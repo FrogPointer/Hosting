@@ -399,9 +399,9 @@
         },
         {
             "path": "https://github.com/FrogPointer/hosting/raw/master/stable/runelite-client-4.17.0.jar",
-            "size": 9608351,
+            "size": 9608354,
             "name": "runelite-client-4.17.0.jar",
-            "hash": "b257268455c4f0392aaa9995c71728bab7373a1e206a41cd52c8e0f5c593a1d6"
+            "hash": "cef6b68536e29df6d3f30f6f78947b9df0181d98a52575211e6596cca6dbfe23"
         }
     ]
 }
